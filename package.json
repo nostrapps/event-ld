@@ -1,6 +1,6 @@
 {
   "name": "event-ld",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "event-ld",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,5 @@
     "url": "https://github.com/nostrapps/event-ld/issues"
   },
   "homepage": "https://github.com/nostrapps/event-ld#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
