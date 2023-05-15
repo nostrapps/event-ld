@@ -40,9 +40,4 @@ if (process.argv.length > 2 && process.argv[2] !== '--file') {
   rl.on('line', (line) => {
     convertEventToJsonLD(line, writeToFile)
   })
-
-  // If there is no input within 1 second, exit
-  setTimeout(() => {
-    process.exit()
-  }, 1000)
 }
