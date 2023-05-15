@@ -1,0 +1,27 @@
+{
+  "name": "event-ld",
+  "version": "0.0.0",
+  "description": "event-ld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostrapps/event-ld.git"
+  },
+  "keywords": [
+    "nostr",
+    "nostdav",
+    "app"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nostrapps/event-ld/issues"
+  },
+  "homepage": "https://github.com/nostrapps/event-ld#readme",
+  "dependencies": {
+  }
+}
