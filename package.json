@@ -1,6 +1,6 @@
 {
   "name": "event-ld",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "event-ld",
   "main": "index.js",
   "scripts": {
